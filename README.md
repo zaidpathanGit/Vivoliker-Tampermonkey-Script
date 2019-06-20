@@ -30,13 +30,13 @@ var photoArray = [
     'https://www.instagram.com/p/BwzWKskFxja/?utm_source=ig_web_copy_link',
     'https://www.instagram.com/p/BwyZ5NGlqxx/?utm_source=ig_web_copy_link',
     'https://www.instagram.com/p/BwbzcJWFnGS/?utm_source=ig_web_copy_link',
-    'https://www.instagram.com/p/Bp3oMVeBd_7/?utm_source=ig_web_copy_l nk'
+    'https://www.instagram.com/p/Bp3oMVeBd_7/?utm_source=ig_web_copy_link'
 ];
 ```
 
-* Replace all the URLS and make sure that all the URLS are comma seperated and the last URL should not contain any comma.
+* Replace all the URLS and make sure that all the URLS are comma(,) seperated and the last URL should not contain any comma.
 
-* You can any number of URLS of the post but for better perfomance make sure it should be less than 15 URLS.
+* You can use any number of URLS of the post but for better perfomance make sure it should be less than 15 URLS.
 
 Step 6 : Save the file from the menu and then visit the [Vivoliker](https://vivoliker.com) website then select `Instagram Likes` then `verify captcha` then `accept agreement` then select `Use` button from Instagram Likes.
 
