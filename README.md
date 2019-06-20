@@ -26,7 +26,8 @@ Step 5 : Once import process is completed open the file named as `VivoLiker scri
 
 ```sh
 var photoArray = [
-    'https://www.instagram.com/p/BwzWMaGFdB0/?utm_source=ig_web_copy_link', 'https://www.instagram.com/p/BwzWKskFxja/?utm_source=ig_web_copy_link',
+    'https://www.instagram.com/p/BwzWMaGFdB0/?utm_source=ig_web_copy_link', 
+    'https://www.instagram.com/p/BwzWKskFxja/?utm_source=ig_web_copy_link',
     'https://www.instagram.com/p/BwyZ5NGlqxx/?utm_source=ig_web_copy_link',
     'https://www.instagram.com/p/BwbzcJWFnGS/?utm_source=ig_web_copy_link',
     'https://www.instagram.com/p/Bp3oMVeBd_7/?utm_source=ig_web_copy_l nk'
