@@ -1,6 +1,6 @@
 # Vivoliker-Tampermonkey-Script
 
-The [Vivoliker](https://vivoliker.com) website provides free likes service on instagram photos. but the only limitation is that you need to wait for 30 Minutes every time once you submitted an order to get likes on your instagram images.
+The [Vivoliker](https://vivoliker.com) website provides free likes service on instagram photos. but the only limitation is that you need to wait for 15 Minutes every time once you submitted an order to get likes on your instagram images.
 
 The `Vivoliker-Tampermonkey-Script` will help you to overcome this limitation. by simply following the easy steps to setup the `Vivoliker-Tampermonkey-Script` script on your browser to automatically process likes on your instagram pictures without interupting your current task.
 
