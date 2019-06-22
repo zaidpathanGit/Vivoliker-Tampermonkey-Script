@@ -18,7 +18,7 @@ Step 2 : Open `Tampermonkey` extension dashboard on your browser.
 
 Step 3 : Select `utilities`.
 
-Step 4 : Now you can import the files by zip (by putting all `.js` files into zip) directly or by manually selecting files with ends with `.js`.
+Step 4 : Now you can import the files by zip (by putting all `.js` files into zip) directly or by manually selecting files which ends with `.js`.
 
 Step 5 : Once import process is completed open the file named as `VivoLiker script for likes on instagram photos in a queue part1` and replace the following code with your instagram post url.
 
